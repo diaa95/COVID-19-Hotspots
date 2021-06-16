@@ -7,7 +7,7 @@
 - Tariq Aljamal
 - Ahmad Zughaier
 
-![homePage](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home1st.PNG)
+![homePage](screenshots/home1st.PNG)
 
 ![homepageScrol](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home2nd.PNG)
 

@@ -8,7 +8,7 @@
 - Ahmad Zughaier
 
 ![homePage](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home1st.PNG)
-![homepage](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home2nd.PNG)
+![homepageScrol](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home2nd.PNG)
 *In the home page user can see the corona_hot_spots map, and data from external apis about the coronavirus international information also in palestine*
 *User can sign up into the platform, once he created an account he can sign in anytime*
 **and there exists also three other roles**

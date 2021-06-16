@@ -21,28 +21,28 @@
 
 ## The user submits his test request
 *the user is required to enter his ID number to locate his most frequent places like: Home, Workplace,...etc*
-![signin](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/submitAtest.PNG)
+![test](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/submitAtest.PNG)
 
 ## The Agent Approving the request
 *when the user reaches out to the agent desk and handles the agent his ID card*
 **The agent searches for the request in the submitted requests by entering the ID number**
 
-![dashboard](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/tester1st.PNG)
+![request](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/tester1st.PNG)
 **Then the agent compares the application's Info with the User's Info and either provide sample number and Approves the request or reject it**
-![levels](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/tester2nd.PNG)
+![approval](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/tester2nd.PNG)
 
 ## The Agent entering the test result
 **The agent searches for the test by sample Number from the pending tests waiting for results**
 
-![level1](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/Agent1st.PNG)
+![result](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/Agent1st.PNG)
 
 **the agent enters the result and submit it**
 
-![level2](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/agent2nd.PNG)
+![result1](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/agent2nd.PNG)
 
 *and if the result is positive it is going to be reflected on the map automatically and stays there as an Active point for 14 days*
 
-![level3](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home1st.PNG)
+![records](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home1st.PNG)
 
 
 

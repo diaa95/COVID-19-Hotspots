@@ -42,11 +42,11 @@
 
 *and if the result is positive it is going to be reflected on the map automatically and stays there as an Active point for 14 days*
 
-![records](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home1st.PNG)
+![maped](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home1st.PNG)
 
 
 
 **ANd the user can see his tests results on his profile page**
 
-![animation](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/profile.PNG)
+![records](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/profile.PNG)
 

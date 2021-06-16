@@ -10,6 +10,7 @@
 ![homePage](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home1st.PNG)
 
 ![homepageScrol](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/home2nd.PNG)
+
 *In the home page user can see the corona_hot_spots map, and data from external apis about the coronavirus international information also in palestine*
 *User can sign up into the platform, once he created an account he can sign in anytime*
 **and there exists also three other roles**
@@ -22,6 +23,7 @@
 
 ## The user submits his test request
 *the user is required to enter his ID number to locate his most frequent places like: Home, Workplace,...etc*
+
 ![test](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/submitAtest.PNG)
 
 ## The Agent Approving the request
@@ -29,7 +31,9 @@
 **The agent searches for the request in the submitted requests by entering the ID number**
 
 ![request](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/tester1st.PNG)
+
 **Then the agent compares the application's Info with the User's Info and either provide sample number and Approves the request or reject it**
+
 ![approval](https://github.com/diaa95/COVID-19-Hotspots/tree/master/screenshots/tester2nd.PNG)
 
 ## The Agent entering the test result
